@@ -2,7 +2,7 @@
 
 ### golang实现区块链，用于区块链入门学习
 
-##Dir
+### Dir
 
 + part1_BasicPrototype 区块链基本原型
 + part2_ProofOfWork 区块链工作量证明
