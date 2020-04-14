@@ -8,7 +8,7 @@
 + part2_ProofOfWork 区块链工作量证明
 + part3_DbAndCmd 区块链持久化存储和命令行接口
 
-##Resource
+###Resource
 
 [liuchengxu/blockchain-tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
