@@ -70,9 +70,6 @@ func newBlockchain() *Blockchain{
 		log.Panic(err)
 	}
 
-
-
-
 	err = db.Update(func(tx *bolt.Tx) error {
 		b := tx.Bucket([]byte(blocksBucket) )
 

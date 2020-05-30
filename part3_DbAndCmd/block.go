@@ -48,7 +48,7 @@ func newGenesisBlock() *Block{
 
 	return NewBlock("Genesis Block", []byte{})
 }
-//很奇怪这里为什么不能使用Unserialize作为函数名
+
 func Deserialize(d []byte) *Block{
 
 	var block Block
